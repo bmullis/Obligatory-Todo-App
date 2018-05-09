@@ -1,0 +1,18 @@
+// Fonts
+@import url("https://fonts.googleapis.com/css?family=Open+Sans:300,400,600");
+
+// Bootstrap
+@import "~bootstrap/scss/bootstrap";
+
+// Globals
+@import "globals/variables";
+@import "globals/global";
+
+// Homepage Styles
+@import "pages/homepage";
+
+// Dashboard Styles
+@import "dashboard/dashboard";
+
+// Component Styles
+@import "components/nav";
